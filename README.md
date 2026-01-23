@@ -109,5 +109,6 @@ This tool is developed by **Raj kumar** and **CYBER SENTINELS** for academic and
 ---
 
 <p align="center">
-  Developed with ❤️ by <b>CYBER SENTINELS</b>
+  Developed with ❤️ by <b> RAJ06-C </b>
 </p>
+
