@@ -1,0 +1,5 @@
+nmap
+dirsearch
+netcat
+hping3
+unicornscan
