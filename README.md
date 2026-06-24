@@ -1,13 +1,14 @@
 # 🦅 UNRT: Unified Network Reconnaissance Toolkit
 
-> **Scan intelligently. Analyze deeply. Secure effectively.**
+[![Python](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)](https://www.python.org)
 
-![Python](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)(www.python.org)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=linux)(https://www.microsoft.com/en-in/windows)(www.linux.orgg)
-![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)(LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
+
+[![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+
+[![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)](LICENSE)
 
 ---
-
 ## 📜 Overview
 
 **UNRT** (Unified Network Reconnaissance Toolkit) is a powerful, all-in-one scanning framework designed by **Group 2 (CYBER SENTINELS)**. It aggregates industry-standard security tools into a single, cohesive interface, allowing security researchers and students to perform comprehensive network reconnaissance with ease.
