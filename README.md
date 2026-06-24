@@ -2,9 +2,9 @@
 
 > **Scan intelligently. Analyze deeply. Secure effectively.**
 
-![Python](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=linux)
-![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python)(www.python.org)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=linux)(https://www.microsoft.com/en-in/windows)(www.linux.orgg)
+![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)(LICENSE)
 
 ---
 
